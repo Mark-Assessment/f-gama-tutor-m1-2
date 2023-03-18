@@ -1,6 +1,95 @@
+header{
+    margin:0;
+}
+
+/*--------------------------------------------colors---*/
 .navbar-brand{
 color:black;
 }
 .navbar-nav{
     color:black;
 }
+.PrivateLessons{
+    background-color: bisque;
+}
+
+.private{
+    line-height: 15em;
+    font-size: 56px;
+}
+/*--------------------------------------------special padding-margin---*/
+.general-sub{
+    font-weight: 300px;
+    color:black;
+
+}
+
+/*
+.privatep{
+    line-height: 1.6rem;
+    font-size: 18px
+}
+.about{
+    width:25%;
+    margin:0;
+}
+
+.subjects{
+    position: relative;
+}
+*/
+.text-wrap{
+    width: 15rem;
+}
+.contacth{
+    font-size: 32px;
+}
+.contactp{
+    font-size: 18px;
+}
+/*
+.submitbtn{
+    width: 100%;
+    margin:10px 0px 0px 0px;
+}
+*/
+.abouth{
+    font-size: 56px;
+}
+.aboutp{
+    font-size: 18px;
+}
+/*----------------------------------footer*/
+footer{
+    background-color: #e7e5e5;
+    color:black;
+    min-height: 120px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.footercontact{
+    font-size: 15px;
+    text-align: left;
+    font-weight: 300px;
+}
+.social-links{
+    padding-bottom: 15px;
+}
+.social-links li a i{
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+}
+.social-links li a i:hover{
+    background: rgb(33, 33, 34);
+}
+.flex-wrapper { /*------------------------push the footer down on the contact page------*/
+    position: relative;
+    bottom: -400px;
+  }
