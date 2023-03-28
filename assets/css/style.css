@@ -1,19 +1,16 @@
 body{
-    width:100%;
-    margin:0;
+    width: 100%;
 }
 header{
    background-color: rgb(167, 164, 164);
    color:black;
 }
-
 /*--------------------------------------------colors---*/
 .navbar-brand{
 color:black;
 }
 .navbar{
-    /*background-color: rgb(240, 234, 234);*/
-    background-color: #e7e5e5;
+     background-color: #e7e5e5;
 }
 .navbar-nav li a{
     color:black
@@ -22,8 +19,7 @@ color:black;
     color:rgb(124, 131, 228);
 }
 .privateLessons{
-   /* background-color: rgba(187, 174, 98, 0.705);*/
-   background-color: rgb(233, 216, 172);
+     background-color: rgb(233, 216, 172);
 }
 .privateh{
    font-size: 65px;
@@ -47,7 +43,7 @@ color:black;
     top: 15%;
     left: 26%;
 }
-/*---------------reviewa alignment----------*/
+/*---------------review alignment----------*/
 .review{
     background-color:rgb(202, 193, 195);
     width: 100%;
@@ -55,32 +51,6 @@ color:black;
     position: relative;
     bottom: -400px;
 }
-.indicatorscss {
-    position: absolute;
-    right: 0;
-    bottom: -70px;
-    left: -80px;
-    z-index: 2;
-    display: flex;
-    justify-content: center;
-    padding: 0;
-    margin-right: 15%;
-    margin-bottom: 1rem;
-    margin-left: 15%;
-    list-style: none;
-}
-.page-hero {
-    width:33%;
-    background-color: bisque;
-    text-align: center;
-    display: inline-block;
-    
-  }
-  .pimage{
-    width:66%;
-    display: inline-block;
-  }
- 
 /*--------------------------------------------special padding-margin---*/
 .general-sub{
     font-weight: 300px;
@@ -88,25 +58,11 @@ color:black;
 
 }
 .text-break{
-    width: 19rem;
-}
-.text-truncate{
-    display: inline-block;
-    max-width: 150px;
+    width: 21rem;
 }
 .slides{
     width: 25rem;
 }
-
-/*.about{
-    width:25%;
-    margin:0;
-}
-
-.subjects{
-    position: relative;
-}
-*/
 .text-wrap{
     width: 15rem;
 }
@@ -125,6 +81,11 @@ color:black;
 .contactform{
     padding-top: 8%;
     padding-left: 15%;
+}
+.imgalign{
+   display: inline;
+    width: 500%;
+    height: 500%;
 }
 /*
 .submitbtn{
@@ -185,7 +146,6 @@ footer{
          }
          .privatep{
             font-size: 18px;
-            /* position: relative; */
             top: 11%;
             left: 1%;
             padding-bottom: 71px;
@@ -212,6 +172,10 @@ footer{
             padding-top: 6%;
             padding-left: 15%;
         }
+        imgalign{
+            width: 200px;
+            height: 200px;
+        }
     }
     
     @media screen and (max-width: 943px)
@@ -221,7 +185,6 @@ footer{
             position: relative;
             top: 10%;
             left: 15%;
-            /*width: 31rem;*/
          }
          .privatep{
             font-size: 15px;
