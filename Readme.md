@@ -3,8 +3,9 @@
 
 [Click here to launch a website](https://fatimagama20.github.io/TutorMilestoneProject1/)
 
-
 This website is designed to give an overview of the tutor services online and some guidance or help which cannot be provided by parents and their school teachers
+
+![](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/mockup.jpg?raw=true)
 
 # User Experience (UX)
 * ## User stories
@@ -13,21 +14,20 @@ This website is designed to give an overview of the tutor services online and so
     * As a first time visitor, I want to look for reviews to understand what the users think about them and if they are trustworthy. I also want to locate their social media links
     * As a first time visitor, I want to know about the subjects they teach and the knowledge and the education of the tutor
   * ### Returning Visitor Goals
-    * hdfhhfhfhf
-    * dgdgdggd
+    * As a Returning Visitor, I want to find information about sujects and to book a lesson, some assignments.
+    * As a returning Visitor, I want to check the reviews
   * ### Frequent User Goals
-    * kjlkjkl
-    * jfghlj
+    * As a frequent User, I want to see if any offers and added
+    * As a Frequent User, I wan to see if there are more assignment challenges are added
 * ## Design
   * ### Colour Scheme
-    * The two main colours used are Code Insititue red, and white.
+    * The two main colours used are Black, Gray and white.
 
   * ### Typography
-    * hdfhhfhfhf
-    * dgdgdggd
+    * Default fonts is used throughtout the website. I haven't use google fonts
   * ### Imagery
-    * hdfhhfhfhf
-    * dgdgdggd
+    * On the Homepage, I have used a professionally presented image to suit the purpose of the website, which is providing a good impression for parents to visit the website.
+  
 * ## Wireframes
   * ### Home Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Hompage.jpg)
   * ### About Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Aboutpage.jpg)
@@ -48,8 +48,11 @@ This website is designed to give an overview of the tutor services online and so
 
   ##  Frameworks, Libraries & Programs Used
   1. [Bootstrap5:](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+     * Bootstrap was used to assist with the responsiveness and styling of the website.
   2. [Font Awesome:](https://fontawesome.com/)
+     *  Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
   3. [Hover:css:](https://ianlunn.github.io/Hover/)
+     * Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
   4. [jQuery:](https://jquery.com/)
      * jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
   5. [Git:](https://git-scm.com/)
@@ -63,7 +66,7 @@ This website is designed to give an overview of the tutor services online and so
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
   * [W3C Markup Validator]() - [Results]()
-  * [W3C CSS Validator](htthttps://validator.w3.org/#validate_by_inputps://jigsaw.w3.org/css-validator/#validate_by_uri) - [Results]()
+  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]()
 # Testing User Stories from User Experience (UX) Section
  * First Time Visitor Goals
 
