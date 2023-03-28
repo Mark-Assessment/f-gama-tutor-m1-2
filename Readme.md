@@ -28,10 +28,10 @@ This website is designed to give an overview of the tutor services online and so
     * hdfhhfhfhf
     * dgdgdggd
 * ## Wireframes
-  * ### Home Page Wireframe - [View]()
-  * ### About Page Wireframe - [View]()
-  * ### Contact Page Wireframe - [View]()
-  * ### Mobile Wireframe - [View]()
+  * ### Home Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Hompage.png)
+  * ### About Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Aboutpage.png)
+  * ### Contact Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Contactform.png)
+  * ### Mobile Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Mobileview.png)
 
 # Features
 
@@ -40,15 +40,28 @@ This website is designed to give an overview of the tutor services online and so
 
 # Technologies Used
 
-  * ## Languages Used
-    * [HTML5](https://en.wikipedia.org/wiki/HTML5)
-    * [CSS3](https://en.wikipedia.org/wiki/CSS)
+## Languages Used
 
-  * ## Frameworks, Libraries & Programs Used
-    1. [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-    2. [Font Awesome:](https://fontawesome.com/)
+  * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-
+  ##  Frameworks, Libraries & Programs Used
+  1. [Bootstrap5:](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+  2. [Font Awesome:](https://fontawesome.com/)
+  3. [Hover:css:](https://ianlunn.github.io/Hover/)
+  4. [jQuery:](https://jquery.com/)
+     * jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+  5. [Git:](https://git-scm.com/)
+     * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+  6. [GitHub:](https://github.com/)
+     * GitHub is used to store the projects code after being pushed from Git.
+  7. [Balsamiq:](https://balsamiq.com/)
+     * Balsamiq was used to create the [wireframes]() during the design process.
+  8. [Am I reponsive:](https://ui.dev/amiresponsive)
+     * Am I reponsive was used to create a mockup to add in a README.md file
+# Testing
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+  * [W3C Markup Validator]()
 
 
 
