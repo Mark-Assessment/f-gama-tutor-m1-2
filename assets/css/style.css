@@ -141,19 +141,19 @@ footer{
             font-size: 50px;
             position: relative;
             top: 11%;
-            left: 1%;
+            left: 4%;
             width: 9rem;
          }
          .privatep{
             font-size: 18px;
             top: 11%;
-            left: 1%;
+            left: 4%;
             padding-bottom: 71px;
          }
          .bookbtn{
              position: relative;
              top: 0%;
-             left: 0%;
+             left: 4%;
              text-align: center;
          }
          .contacth{
@@ -223,7 +223,7 @@ footer{
         font-size: 65px;
          position: relative;
          top: 5%;
-         left: 8%;
+         left: 6%;
          width: 19rem;
         padding-bottom: 53px;
         margin: 0;
@@ -232,14 +232,14 @@ footer{
          font-size: 17px;
          position: relative;
          top: 4%;
-         left: 8%;
+         left: 6%;
          padding-bottom: 50px;
          text-align: justify;
      }
      .bookbtn{
          position: relative;
          top: -3%;
-         left: 8%;
+         left: 6%;
          text-align: center;
      }
      .social-links li a i{

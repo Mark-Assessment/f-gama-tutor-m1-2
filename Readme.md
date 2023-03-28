@@ -1,7 +1,8 @@
 # Tutor Website
 ## Code institute Milestone Project1
 
-[Click here to launch a website](https://8000-fatimagama2-tutormilest-567d8jkn7wv.ws-eu90.gitpod.io/)
+[Click here to launch a website](https://fatimagama20.github.io/TutorMilestoneProject1/)
+
 
 This website is designed to give an overview of the tutor services online and some guidance or help which cannot be provided by parents and their school teachers
 
@@ -28,10 +29,10 @@ This website is designed to give an overview of the tutor services online and so
     * hdfhhfhfhf
     * dgdgdggd
 * ## Wireframes
-  * ### Home Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Hompage.png)
-  * ### About Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Aboutpage.png)
-  * ### Contact Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Contactform.png)
-  * ### Mobile Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Mobileview.png)
+  * ### Home Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Hompage.jpg)
+  * ### About Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Aboutpage.jpg)
+  * ### Contact Page Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Contactform.jpg)
+  * ### Mobile Wireframe - [View](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/Mobileview.jpg)
 
 # Features
 
@@ -136,9 +137,12 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 4. Open Git Bash
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL you copied in Step 3.
-$ git clone [](https://github.com/fatimagama20/TutorMilestoneProject1)
-Press Enter. Your local clone will be created.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+   $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+7. Press Enter. Your local clone will be created.
+
+   $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
