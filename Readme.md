@@ -70,45 +70,40 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 # Testing User Stories from User Experience (UX) Section
  * First Time Visitor Goals
 
-    i. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the tutor.
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the tutor.
 
-      a. Upon entering the site, users are automatically greeted with a clean and easily        
-        readable navigation bar to go to the page of their choice. Underneath there is a image with Text and a "Book a lesson" Call to action button which will redirect to contact page.
+       * Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a image with Text and a "Book a lesson" Call to action button which will redirect to contact page.
 
-      b. Next there are the subjects I teach with a Call to action button which will redirects to learn more about the tutor.
+       * Next there are the subjects I teach with a Call to action button which will redirects to learn more about the tutor.
 
-    ii. As a First Time Visitor, I want to be able to easily be able to navigate throughout    
-        the site to find content.
+    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-      a. The site has been designed to be fluid and never to entrap the user. At the top of  
-        each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+        * The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
 
-      b. At the bottom of the first 3 pages there is a redirection call to action to ensure      the  user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
+        * At the bottom of the first 3 pages there is a redirection call to action to ensure      the  user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
             
-      c. On the Contact Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+        * On the Contact Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
 
-    iii. As a First Time Visitor, I want to look for testimonials to understand what their users 
-         think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
 
-        a. Once the new visitor has read the About page and What I Do text, they will notice the qualification and use of online service.
+        * Once the new visitor has read the About page and What I Do text, they will notice the qualification and use of online service.
 
-        b. The user can also scroll to the bottom of any page on the site to locate social media 
-           links in the footer.
+        * The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
 
-        c. At the bottom of the Contact page, the user is told underneath the form, that alternatively they can contact the person on social media which highlights the links to them.
+        * At the bottom of the Contact page, the user is told underneath the form, that alternatively they can contact the person on social media which highlights the links to them.
 
  *  Frequent User Goals
 
-      i. As a Frequent User, I want to check to see if there are any newly added reviews about the tutor.
+    1. As a Frequent User, I want to check to see if there are any newly added reviews about the tutor.
 
-        a. The user would already be comfortable with the website layout and can easily check the reviews section.
+       * The user would already be comfortable with the website layout and can easily check the reviews section.
 
-    ii. As a Frequent User, I want to check to see if there are any new subjects are added.
+    2. As a Frequent User, I want to check to see if there are any new subjects are added.
 
-        a. The user would already be comfortable with the website layout and can easily check the subjects.
+       * The user would already be comfortable with the website layout and can easily check the subjects.
 
 # Further Testing
-  * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+* The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 * The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 * A large amount of testing was done to ensure that all pages were linking correctly.
 * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
@@ -120,7 +115,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 GitHub Pages
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository]()
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/fatimagama20/TutorMilestoneProject1)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
    * Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
@@ -130,21 +125,21 @@ The project was deployed to GitHub Pages using the following steps...
 # Forking the GitHub Repository
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository]()
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/fatimagama20/TutorMilestoneProject1)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 # Making a Local Clone
-1. Log in to GitHub and locate the [GitHub Repository]()
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/fatimagama20/TutorMilestoneProject1)
 2. Under the repository name, click "Clone or download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL you copied in Step 3.
 
-   $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+   $ git clone https://github.com/fatimagama20/TutorMilestoneProject1
 7. Press Enter. Your local clone will be created.
 
-   $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+   $ git clone https://github.com/fatimagama20/TutorMilestoneProject1
 
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
@@ -153,25 +148,28 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 > Unpacking objects: 100% (10/10), done.
 Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
-Credits
-Code
-The full-screen hero image code came from this StackOverflow post
+# Credits
+## Code
+* [Bootstrap 5.0:](https://getbootstrap.com/docs/5.0/getting-started/introduction/) Bootstrap was used significantly throughout the project to make it responsive. I used the Grid system as well as inputting a fixed-top navbar, a progress bar and contact form.
 
-Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+* [Stack Overflow](https://stackoverflow.com/) was used to help me style the navbar text colour and was used in HTML to close the navbar when a link is clicked on mobile.
 
-MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
+* [W3Schools](https://www.w3schools.com/) was used to provide a smooth scroll to the website and to style the contact form and the submit button.
 
-Content
-All content was written by the developer.
+* [Courses.Code Institute](https://learn.codeinstitute.net/ci_program/level5diplomainwebappdevelopment) was used to style the progress bars and I used the demonstrated jQuery for the contact form.
 
-Psychological properties of colours text in the README.md was found here
+## Content
+* [Google :](https://www.google.co.uk/) Some content was searched from google
+* Some content by the developer.
 
-Media
-All Images were created by the developer.
-Acknowledgements
-My Mentor for continuous helpful feedback.
+## Media
+* [Google:](https://www.google.co.uk/) Some Images were downloaded from google.
+* [Unsplash:](https://unsplash.com/) Some image are taken from Unsplash
 
-Tutor support at Code Institute for their support.
+## Acknowledgements
+* My Mentor for continuous helpful feedback.
+* Tutor support at Code Institute for their support.
+
 
 
 
