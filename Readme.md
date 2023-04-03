@@ -108,9 +108,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * A large amount of testing was done to ensure that all pages were linking correctly.
 * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 # Known Bugs
-* On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-* A white gap can be seen to the right of the footer and navigation bar as a result.
-* On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+* Hover effects don't work on navigation bar
+* on Ipad text is bit overlapping
+ 
 # Deployment
 GitHub Pages
 The project was deployed to GitHub Pages using the following steps...
