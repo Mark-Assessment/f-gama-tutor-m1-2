@@ -66,7 +66,7 @@ This website is designed to give an overview of the tutor services online and so
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
   * [W3C Markup Validator]() - [Results](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/W3C%20Markup%20validator%20result.jpg)
-  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/workspace/TutorMilestoneProject1/assets/image/cssresult.jpg)
+  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/cssresult.jpg)
 # Testing User Stories from User Experience (UX) Section
  * First Time Visitor Goals
 
