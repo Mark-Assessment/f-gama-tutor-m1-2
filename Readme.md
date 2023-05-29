@@ -74,7 +74,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
        * Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a image with Text and a "Book a lesson" Call to action button which will redirect to contact page.
 
+       ![](https://github.com/fatimagama20/TutorMilestoneProject1/assets/image/navigationbar.jpg)
+
        * Next there are the subjects I teach with a Call to action button which will redirects to learn more about the tutor.
+
+       ![](https://github.com/fatimagama20/TutorMilestoneProject1/assets/image/subjects.jpg)
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
