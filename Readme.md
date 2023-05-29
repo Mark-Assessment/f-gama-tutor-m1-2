@@ -74,11 +74,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
        * Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a image with Text and a "Book a lesson" Call to action button which will redirect to contact page.
 
-       ![](https://github.com/fatimagama20/TutorMilestoneProject1/assets/image/navigationbar.jpg)
-
+       ![](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/navigationbar.jpg?raw=true)
+       
        * Next there are the subjects I teach with a Call to action button which will redirects to learn more about the tutor.
 
-       ![](https://github.com/fatimagama20/TutorMilestoneProject1/assets/image/subjects.jpg)
+       ![](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/subjects.jpg?raw=true)
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
@@ -88,6 +88,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
             
         * On the Contact Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
 
+        ![](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/aboutpageimage.jpg?raw=true)
+        
+        ![](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/contactpagewithgallery.jpg?raw=true)
+
     3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
 
         * Once the new visitor has read the About page and What I Do text, they will notice the qualification and use of online service.
@@ -95,6 +99,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         * The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
 
         * At the bottom of the Contact page, the user is told underneath the form, that alternatively they can contact the person on social media which highlights the links to them.
+
+        ![](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/socialmedia.jpg?raw=true)
+
+        ![](https://github.com/fatimagama20/TutorMilestoneProject1/blob/main/assets/image/review.jpg?raw=true)
+
+
 
  *  Frequent User Goals
 
