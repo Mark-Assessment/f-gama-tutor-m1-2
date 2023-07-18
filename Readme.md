@@ -122,8 +122,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * A large amount of testing was done to ensure that all pages were linking correctly.
 * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 # Known Bugs
-* Hover effects don't work on navigation bar
-* on Ipad text is bit overlapping
+* Hover effects don't work on the navigation bar
+  * I tried fixing hover effects on a nav bar but somehow Bootstrap is overriding the CSS. Since there is not much impact on the UX and there are clear redirection provided I left it unfixed
  
 # Deployment
 GitHub Pages
